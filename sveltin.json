@@ -1,0 +1,22 @@
+{
+    "version": "0.2.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.3/sveltin_0.2.3_Windows-i386.zip",
+            "bin": [
+                "sveltin.exe"
+            ],
+            "hash": "1f87dc87ae6b82a2be9ed6dced8831f0f496f2d514599d3cd67f718f9da72bf3"
+        },
+        "64bit": {
+            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.3/sveltin_0.2.3_Windows-x86_64.zip",
+            "bin": [
+                "sveltin.exe"
+            ],
+            "hash": "0f288bced9c4c5a140404303d19bb2398ed7a8324595428c59bbec09be01c124"
+        }
+    },
+    "homepage": "https://sveltin.io",
+    "license": "Apache-2.0",
+    "description": "A powerful CLI for your next SvelteKit powered static website."
+}
