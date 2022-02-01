@@ -1,19 +1,19 @@
 {
-    "version": "0.2.11",
+    "version": "0.2.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.11/sveltin_0.2.11_Windows-i386.zip",
+            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.12/sveltin_0.2.12_Windows-i386.zip",
             "bin": [
                 "sveltin.exe"
             ],
-            "hash": "b345dc9cc39b9bef1c6e92825709b4f9cc7a1ca1d7e5c9766f9dc7656bcfb82a"
+            "hash": "ebf4387116839e718f8afe812c8a5c9cbdd80507601a412d7ca9e894efa8102d"
         },
         "64bit": {
-            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.11/sveltin_0.2.11_Windows-x86_64.zip",
+            "url": "https://github.com/sveltinio/sveltin/releases/download/v0.2.12/sveltin_0.2.12_Windows-x86_64.zip",
             "bin": [
                 "sveltin.exe"
             ],
-            "hash": "89de3395d04e18e5132f5e69cccd06d041f98177d1f2c710b565e9ba0f7d34cd"
+            "hash": "40bee9a5333cf6f15377c2a82561176c7af37115615c2de0552620dc553144a5"
         }
     },
     "homepage": "https://sveltin.io",
