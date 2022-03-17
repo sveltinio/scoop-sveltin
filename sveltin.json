@@ -6,14 +6,14 @@
             "bin": [
                 "sveltin.exe"
             ],
-            "hash": "1234eb36bfdc85b06665a833d1c9db31247c2542dd5cfab958ce6bcf97760a53"
+            "hash": "53321e085da312bad78615547aea5a9cefd6452e59b51441e091828dfda89326"
         },
         "64bit": {
             "url": "https://github.com/sveltinio/sveltin/releases/download/v0.7.1/sveltin_0.7.1_Windows-x86_64.zip",
             "bin": [
                 "sveltin.exe"
             ],
-            "hash": "02158d0a8d7299808b25bc0249af50ee945b8362df21589d405c6b0236d1e9b5"
+            "hash": "70ab2a56381800ba18dfc46b19cda2213fc7693a63eed34436948039d7730e27"
         }
     },
     "homepage": "https://sveltin.io",
